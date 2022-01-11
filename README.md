@@ -6,6 +6,8 @@ Port for Powkiddy Q90/V90
 
 build from source: make
 
+*Caution: Quick save before press start to enter passwork screen, because Start will clean all progress.
+
 Keymap:
 - A: use whip
 - B: Jump
