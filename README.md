@@ -18,6 +18,7 @@ Keymap:
 - L: quick save
 - R: quick load
 
+Option: Add command --room <number> (from 1 to 13) to launch lv fast or enter password (it's up to you).
 
 
 
