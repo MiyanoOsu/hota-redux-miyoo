@@ -1038,7 +1038,7 @@ int main(int argc, char **argv)
 	cls.scale = 1;
 	cls.filtered = 0;
 	cls.fullscreen = 0;
-	cls.use_iso = 0;
+	cls.use_iso = 1;
 	cls.speed_throttle = 0;
 	cls.paused = 0;
 	cls.nosound = 0;
