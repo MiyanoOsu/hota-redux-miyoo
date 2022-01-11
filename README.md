@@ -19,6 +19,6 @@ Keymap:
 
 
 
-- Develope: https://en.wikipedia.org/wiki/Heart_of_the_Alien
+Develope: https://en.wikipedia.org/wiki/Heart_of_the_Alien
 
-- Patch miyoo: Miyano
+Patch miyoo: Miyano
