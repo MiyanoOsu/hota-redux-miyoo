@@ -14,6 +14,7 @@ Keymap:
 - Y: Run/shot
 - X: hack speed
 - Select: exit
+- Start: Password screen
 - L: quick save
 - R: quick load
 
