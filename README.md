@@ -6,6 +6,15 @@ build from source: make
 
 *Add '--iso' in parameters menu or copy file 'hota-redux' to '/mnt/gmenu2x/sections/games'
 
+Keymap:
+- A: use whip
+- B: Jump
+- Y: Run/shot
+- X: hack speed
+- Select: exit
+- L: quick save
+- R: quick load
+
 
 
 
