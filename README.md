@@ -1,4 +1,6 @@
-#HEART OF THE ALIEN  (Another World 2) (Miyoo homebrew)
+#HEART-OF-THE-ALIEN  
+
+(Another World 2) (Miyoo homebrew)
 
 Port for Powkiddy Q90/V90
 
