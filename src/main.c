@@ -601,9 +601,7 @@ void check_events()
 				key_c = 0;
 				break;
 
-				case SDLK_q:
-				key_a = 0;
-				key_reset_record = 0;
+				case SDLK_RETURN:
 				break;
 
 				case SDLK_SPACE:
@@ -663,9 +661,8 @@ void check_events()
 				quickload();
 				break;
 
-				case SDLK_q:
-				key_a = 1;
-				key_reset_record = 1;
+				case SDLK_RETURN:
+				next_script = 7;
 				break;
 
 				case SDLK_SPACE:
