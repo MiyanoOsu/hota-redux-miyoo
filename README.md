@@ -26,4 +26,3 @@ Option: Add command --room [number] (from 1 to 13) to launch lv fast or enter pa
 # Develope: 
 - https://en.wikipedia.org/wiki/Heart_of_the_Alien
 - Éric Chahi
-- Miyoo patch: Miyano
