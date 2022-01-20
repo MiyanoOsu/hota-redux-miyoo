@@ -1,6 +1,6 @@
 # HEART-OF-THE-ALIEN  
 
-(Another World 2) (Miyoo homebrew)
+(Out Of The World 2) (Miyoo homebrew)
 
 Port for Powkiddy Q90/V90
 
@@ -23,4 +23,7 @@ Option: Add command --room [number] (from 1 to 13) to launch lv fast or enter pa
 
 
 
-Develope: https://en.wikipedia.org/wiki/Heart_of_the_Alien
+# Develope: 
+- https://en.wikipedia.org/wiki/Heart_of_the_Alien
+- Éric Chahi
+- Miyoo patch: Miyano
