@@ -9,11 +9,11 @@ build from source: make
 *Caution: Quick save before enter password screen, because press Start will clean all progress.
 
 Keymap:
-- A: use whip
+- A: Use whip
 - B: Jump
-- Y: Run/shot
+- Y: Run / shoot
 - X: hack speed
-- Select: exit
+- Select: Exit
 - Start: Password screen
 - L: quick save
 - R: quick load
