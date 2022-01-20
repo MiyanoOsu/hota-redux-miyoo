@@ -1,4 +1,4 @@
-# HEART-OF-THE-ALIEN  
+# HEART_OF_THE_ALIEN  
 
 (Out Of The World 2) (Miyoo homebrew)
 
